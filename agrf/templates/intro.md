@@ -1,3 +1,3 @@
 Welcome to the Galaxy {{ site_name }} {{ lab_name }}!
 
-Analyse your AGRF sequencing data here. 
+You can analyse your AGRF sequencing data here with useful tools and workflows.
