@@ -1,1 +1,1 @@
-Welcome to the AGRF Lab in Galaxy Australia!
+Welcome to the Galaxy {{ site_name }} {{ lab_name }}!
