@@ -1,8 +1,8 @@
 id: data
 title: Get data into Galaxy
 tabs:
-  - id: "" #name on tab
-    title: Overview
+  - id: All #name on tab
+    title:  #can be null
     heading_md: "Tools and tips to get started"
     content:
       - title_md: A brief introduction to sequence QC
