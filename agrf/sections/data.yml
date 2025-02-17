@@ -1,32 +1,7 @@
 id: data
-title: Get data into Galaxy
-tabs:
-  - id: All #name on tab
-    title:  #can be null
-    heading_md: "Tools and tips to get started"
+    title: #left null
+    heading_md: Get data into Galaxy
     content:
-      - title_md: A brief introduction to sequence QC
-        description_md: Learn how to evaluate the quality of your raw sequencing data with FastQC.
-        button_link: "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/vsi_qc/tutorial.html"
-        button_tip: View tutorial
-        button_icon: tutorial    
-      - title_md: Import data
-        description_md: Tool
-        inputs:  # A list of essential inputs for the tool
-          - datatypes:  # The accepted datatypes for this input
-              - fastqsanger
-            label: Input data  # A label for this input
-        # Get this link by selecting "Copy link" in the tool form on Galaxy. Make sure to strip version number(s) from the end:
-        button_link: "{{ galaxy_base_url }}/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fdevteam%2Ffastqc%2Ffastqc"
-
-  
-  
-  - id: learning
-    title: Learning
-    heading_md: "Here are some resources for you to learn more."
-    content:
-      - title_md: A brief introduction to sequence QC
-        description_md: Learn how to evaluate the quality of your raw sequencing data with FastQC.
-        button_link: "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/vsi_qc/tutorial.html"
-        button_tip: View tutorial
-        button_icon: tutorial
+      subsections:
+        - <TabSubsection>
+        - <TabSubsection>
