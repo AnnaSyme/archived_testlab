@@ -2,7 +2,7 @@ id: data
 title: Get data into Galaxy
 tabs:
   - id: help
-    title: 
+    title: Start
     heading_md:
     content:
       - title_md: How can I use Galaxy?
