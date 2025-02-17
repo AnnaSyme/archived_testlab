@@ -11,7 +11,7 @@ root_domain: usegalaxy.org.au
 # The files below must be accessible on the internet, relative to this file
 # -----------------------------------------------------------------------------
 # Custom content relative to this file URL
-header_logo: static/flask.svg
+header_logo: static/agrf.png
 custom_css: static/custom.css
 intro_md: templates/intro.md
 footer_md: templates/footer.md
