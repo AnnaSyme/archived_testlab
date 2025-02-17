@@ -20,4 +20,5 @@ conclusion_md: templates/conclusion.md
 # Data to be rendered into sections/tabs/accordion elements:
 sections:
   - sections/section-1.yml
+  - sections/qc.yml
   
