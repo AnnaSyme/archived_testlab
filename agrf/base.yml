@@ -3,7 +3,7 @@
 # "# Welcome to the Agrf"
 
 site_name: ""
-lab_name: AGRF
+#lab_name: AGRF
 galaxy_base_url: https://agrf.usegalaxy.org.au
 subdomain: agrf
 root_domain: usegalaxy.org.au
