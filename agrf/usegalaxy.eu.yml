@@ -1,0 +1,5 @@
+# Server-specific spec for a Lab page
+
+site_name: "Europe"
+galaxy_base_url: https://agrf.usegalaxy.eu
+root_domain: usegalaxy.eu

@@ -1,0 +1,23 @@
+# Default spec for a Lab page
+# Any variables defined here can be used in Md/HTML templates, like:
+# "# Welcome to the Agrf"
+
+site_name: ""
+lab_name: AGRF
+galaxy_base_url: https://agrf.usegalaxy.org
+subdomain: agrf
+root_domain: usegalaxy.org
+
+# The files below must be accessible on the internet, relative to this file
+# -----------------------------------------------------------------------------
+# Custom content relative to this file URL
+header_logo: static/flask.svg
+custom_css: static/custom.css
+intro_md: templates/intro.md
+footer_md: templates/footer.md
+conclusion_md: templates/conclusion.md
+
+# Data to be rendered into sections/tabs/accordion elements:
+sections:
+  - sections/section-1.yml
+  

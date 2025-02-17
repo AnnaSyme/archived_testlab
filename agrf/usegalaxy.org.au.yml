@@ -1,0 +1,5 @@
+# Server-specific spec for a Lab page
+
+site_name: "Australia"
+galaxy_base_url: https://agrf.usegalaxy.org.au
+root_domain: usegalaxy.org.au
