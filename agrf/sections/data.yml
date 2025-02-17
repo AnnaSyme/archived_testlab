@@ -3,7 +3,7 @@ title: Get data into Galaxy
 tabs:
   - id: help
     title: Overview
-    heading_md:
+    heading_md: test heading
     content:
       - title_md: How can I use Galaxy?
         description_md: >
