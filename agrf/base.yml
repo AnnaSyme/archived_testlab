@@ -4,9 +4,9 @@
 
 site_name: ""
 lab_name: AGRF
-galaxy_base_url: https://agrf.usegalaxy.org
+galaxy_base_url: https://agrf.usegalaxy.org.au
 subdomain: agrf
-root_domain: usegalaxy.org
+root_domain: usegalaxy.org.au
 
 # The files below must be accessible on the internet, relative to this file
 # -----------------------------------------------------------------------------
