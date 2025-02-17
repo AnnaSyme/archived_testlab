@@ -2,7 +2,7 @@
 # Any variables defined here can be used in Md/HTML templates, like:
 # "# Welcome to the Agrf"
 
-site_name: ""
+site_name: "Australia"
 lab_name: AGRF Lab
 galaxy_base_url: https://agrf.usegalaxy.org.au
 subdomain: agrf
