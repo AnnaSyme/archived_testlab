@@ -21,4 +21,5 @@ conclusion_md: templates/conclusion.md
 sections:
   #- sections/data.yml
   - sections/qc.yml
+  - sections/test-section.yml
   
