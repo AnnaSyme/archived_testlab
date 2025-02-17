@@ -2,18 +2,18 @@ id: data
 title: Get data into Galaxy
 tabs:
   - id: help
-    title: Start
+    title: Overview
     heading_md:
     content:
       - title_md: How can I use Galaxy?
         description_md: >
           <p>
-            [add link to instructions/tutorials]
+            add link to instructions/tutorials
           </p>
       - title_md: How can I get my data from AGRF to Galaxy?
         description_md: >
           <p>
-            [add link to instructions]
+            add link to instructions
           </p>
      - title_md: Can I upload sensitive or private data?
         description_md: >
