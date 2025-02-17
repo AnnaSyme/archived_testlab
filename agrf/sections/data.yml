@@ -1,7 +1,7 @@
 id: data
-    title: 
-    heading_md: Get data into Galaxy
-    content:
-      subsections:
-        - <TabSubsection>
-        - <TabSubsection>
+title: 
+heading_md: Get data into Galaxy
+content:
+  subsections:
+    - <TabSubsection>
+    - <TabSubsection>
