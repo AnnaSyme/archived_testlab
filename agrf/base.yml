@@ -3,7 +3,7 @@
 # "# Welcome to the Agrf"
 
 site_name: "Australia"
-lab_name: AGRF Lab
+lab_name: AGRF Lab #this will be in caps, at right of logo
 galaxy_base_url: https://agrf.usegalaxy.org.au
 subdomain: agrf
 root_domain: usegalaxy.org.au
@@ -11,9 +11,9 @@ root_domain: usegalaxy.org.au
 # The files below must be accessible on the internet, relative to this file
 # -----------------------------------------------------------------------------
 # Custom content relative to this file URL
-header_logo: static/agrf.png
-custom_css: static/custom.css
-intro_md: templates/intro.md
+header_logo: static/agrf.png #logo at the left hand side
+custom_css: static/custom.css #currently defines a margin under the logo?
+intro_md: templates/intro.md #intro text
 footer_md: templates/footer.md
 conclusion_md: templates/conclusion.md
 
