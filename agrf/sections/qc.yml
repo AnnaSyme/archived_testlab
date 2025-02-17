@@ -4,11 +4,10 @@ tabs:
   - id: help
     title: Overview
     heading_md: >
-      If you are new to galaxy, uploading your data is a good place to start!
+      Examine raw data, and perform quality control
       <br>
-      Check out the Tools and Workflows tabs for different approaches to uploading data.
+      Check out the Tools and Workflows tabs. 
     content:
-     
       - title_md: "Tutorial: Quality Control"
         description_md: >
           <p>
@@ -35,10 +34,6 @@ tabs:
     heading_md: >
       Common tools are listed here, or search for more in the full tool panel to the left.
     content:
-      - title_md: Import data to Galaxy
-        description_md: >
-          Standard upload of data to Galaxy, from your computer or from the web.
-        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=upload1"
       - title_md: <code>FastQC</code> - sequence quality reports
         description_md: >
           <p>
