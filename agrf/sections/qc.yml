@@ -119,8 +119,4 @@ tabs:
         view_link: https://workflowhub.eu/workflows/224
         view_tip: View in WorkflowHub
         button_tip: Import to Galaxy AU
-      - title_md: A brief introduction to sequence QC
-        description_md: Learn how to evaluate the quality of your raw sequencing data with FastQC.
-        button_link: "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/vsi_qc/tutorial.html"
-        button_tip: View tutorial
-        button_icon: tutorial
+
