@@ -13,8 +13,7 @@ tabs:
         description_md: describe
   - id: Illumina
     title: Illumina data
-    heading_md: >
-      Perform QC of Illumina sequencing reads with these tools and workflows.
+    heading_md: Perform QC of Illumina sequencing reads with these tools and workflows.
     content:
       - title_md: <code>FastQC</code> - sequence quality reports
         description_md: >
