@@ -7,7 +7,7 @@ tabs:
     heading_md: Get data into Galaxy and prepare it for analysis.
     content:
       - title_md: Upload your data to Galaxy
-        description_md: Find your data at the [AGRF Hub](https://www.agrf.org.au/my-agrf-hub). Download this data to your computer and then upload to Galaxy, using the Upload tool.
+        description_md: Find your data at the [AGRF Hub](https://www.agrf.org.au/my-agrf-hub). Download this data to your computer and then upload to Galaxy, using the **Upload data** tool.
         button_md: Upload data
         button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=upload1"
       - title_md: Compress large data files
