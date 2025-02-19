@@ -16,10 +16,7 @@ tabs:
         button_md: Tutorial
         button_link: https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-strands/tutorial.html
       - title_md: Galaxy Australia support
-        description_md: >
-          <p>
-            Any user of Galaxy Australia can request support through an online form.
-          </p>
+        description_md: Any user of Galaxy Australia can request support through an online form.
         button_md: Request support
         button_link: /request/support
   - id: Illumina-snp
