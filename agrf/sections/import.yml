@@ -3,7 +3,7 @@ id: import
 title: Import data from AGRF
 tabs:
   - id: help
-    title: Help
+    title: Overview
     heading_md: Get data into Galaxy and prepare it for analysis.
     content:
       - title_md: Where is my AGRF data?
