@@ -2,13 +2,14 @@ id: data
 title: Data quality control
 tabs:
   - id: help
-    title: Help
-    heading_md: >
-      Examine raw data, and perform quality control
+    title: Overview
+    heading_md: Examine sequencing data and perform quality control
       <br>
-      See the tabs for different data types.
+      See the tabs (above) to work with different data types.
     content:
-      - title_md: "Tutorial: Quality Control"
+      - title_md: What is quality control?
+        description_md: Learn about quality and data cleaning with this tutorial, which will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
+      - title_md: What is quality control?
         description_md: >
           <p>
             Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
