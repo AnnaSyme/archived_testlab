@@ -17,6 +17,10 @@ tabs:
           </p>
         button_md: Compress data
         button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=https://toolshed.g2.bx.psu.edu/repos/iuc/compress_file" #does this need additional text eg %2Frepos% etc?
+      - title_md: Help, I don't know how to use Galaxy!
+        description_md: Learn how to use Galaxy with these user-friendly tutorials 
+        button_md: Galaxy tutorials
+        button_link: "https://training.galaxyproject.org/"      
       - title_md: Galaxy Australia support
         description_md: >
           <p>
@@ -24,7 +28,4 @@ tabs:
           </p>
         button_md: Request support
         button_link: /request/support
-      - title_md: Help, I don't know how to use Galaxy
-        description_md: Learn how to use Galaxy with these user-friendly tutorials 
-        button_md: Galaxy tutorials
-        button_link: "https://training.galaxyproject.org/"
+
