@@ -15,10 +15,10 @@ tabs:
       - title_md: Compress large data files
         description_md: >
           <p>
-            Save time and space by compressing data such as large `fastq` files. Most tools will work with (or require) compressed data. Compression is reversible. 
+            Save time and space by compressing data such as large `fastq` files.  
           </p>
-        button_md: add tool
-        button_link: add link
+        button_md: Compress data
+        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=https://toolshed.g2.bx.psu.edu/repos/iuc/compress_file"
       - title_md: Galaxy Australia support
         description_md: >
           <p>
