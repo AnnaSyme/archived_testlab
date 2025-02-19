@@ -26,3 +26,7 @@ tabs:
           </p>
         button_md: Request support
         button_link: /request/support
+      - title_md: Help, I don't know how to use Galaxy
+        description_md: Learn how to use Galaxy with these user-friendly tutorials 
+        button_md: Galaxy tutorials
+        button_link: "https://training.galaxyproject.org/"
