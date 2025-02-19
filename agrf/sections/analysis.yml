@@ -30,11 +30,16 @@ tabs:
         button_link: /request/support
   - id: Illumina-snp
     title: Illumina SNP calling
-    heading_md: Illumina SNP calling analysis tools and workflows    
+    heading_md: Illumina SNP calling analysis tools and workflows
+    content:
+      - title_md: Tool1
   - id: RNA
     title: RNA-seq data
     heading_md: RNA-seq analysis tools and workflows
+    content:
+      - title_md: Tool1    
   - id: GBS
     title: GBS data
     heading_md: GBS analysis tools and workflows    
- 
+    content:
+      - title_md: Tool1 
