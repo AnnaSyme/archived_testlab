@@ -1,11 +1,11 @@
 
-id: data
-title: Data quality control
+id: import
+title: Import data
 tabs:
   - id: help
-    title: Overview
+    title: Help
     heading_md: >
-      Examine raw data, and perform quality control
+      Get data into Galaxy and prepare for analysis.
       <br>
       Check out the Tools and Workflows tabs. 
     content:
