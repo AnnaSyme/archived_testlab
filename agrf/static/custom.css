@@ -1,3 +1,9 @@
 li {
   margin-bottom: .5rem;
 }
+#header-logo {
+  width: auto;
+}
+#labName {
+  display: none;
+}
