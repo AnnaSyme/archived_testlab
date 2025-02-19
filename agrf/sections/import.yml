@@ -1,21 +1,25 @@
 
 id: import
-title: Import data
+title: Import data from AGRF
 tabs:
   - id: help
     title: Help
     heading_md: >
-      Get data into Galaxy and prepare for analysis.
+      Get data into Galaxy and prepare it for analysis.
       <br>
-      Check out the Tools and Workflows tabs. 
     content:
-      - title_md: "Tutorial: Quality Control"
+      - title_md: Where is my AGRF data?
         description_md: >
           <p>
-            Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
+            Find your data at the [AGRF Hub](https://www.agrf.org.au/my-agrf-hub)
+            e.g. Download this data to your computer (or other storage place)
           </p>
-        button_md: Tutorial
-        button_link: https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html
+        - title_md: Upload your data to Galaxy
+        description_md: >
+          <p>
+            Use the Galaxy import tool to get your data from your computer into Galaxy
+          </p>
+        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=upload1"
       - title_md: "Tutorial: introduction to Genomics and Galaxy"
         description_md: >
           <p>
