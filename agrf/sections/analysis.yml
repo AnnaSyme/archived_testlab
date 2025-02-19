@@ -8,17 +8,11 @@ tabs:
       See the tabs for different data types.
     content:
       - title_md: "Tutorial: Quality Control"
-        description_md: >
-          <p>
-            Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
-          </p>
+        description_md: Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
         button_md: Tutorial
         button_link: https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html
       - title_md: "Tutorial: introduction to Genomics and Galaxy"
-        description_md: >
-          <p>
-            This practical aims to familiarize you with the Galaxy user interface. It will teach you how to perform basic tasks such as importing data, running tools, working with histories, creating workflows, and sharing your work.
-          </p>
+        description_md: This practical aims to familiarize you with the Galaxy user interface. It will teach you how to perform basic tasks such as importing data, running tools, working with histories, creating workflows, and sharing your work.
         button_md: Tutorial
         button_link: https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-strands/tutorial.html
       - title_md: Galaxy Australia support
