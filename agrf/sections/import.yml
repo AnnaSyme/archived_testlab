@@ -14,7 +14,7 @@ tabs:
             Find your data at the [AGRF Hub](https://www.agrf.org.au/my-agrf-hub)
             e.g. Download this data to your computer (or other storage place)
           </p>
-        - title_md: Upload your data to Galaxy
+      - title_md: Upload your data to Galaxy
         description_md: >
           <p>
             Use the Galaxy import tool to get your data from your computer into Galaxy
