@@ -2,11 +2,11 @@ id: data
 title: Data quality control
 tabs:
   - id: help
-    title: Overview
+    title: Help
     heading_md: >
       Examine raw data, and perform quality control
       <br>
-      Check out the Tools and Workflows tabs. 
+      See the tabs for different data types.
     content:
       - title_md: "Tutorial: Quality Control"
         description_md: >
@@ -29,10 +29,10 @@ tabs:
           </p>
         button_md: Request support
         button_link: /request/support
-  - id: tools
-    title: Tools
+  - id: Illumina
+    title: Illumina
     heading_md: >
-      Common tools are listed here, or search for more in the full tool panel to the left.
+      Perform QC of Illumina sequencing reads with these tools and workflows.
     content:
       - title_md: <code>FastQC</code> - sequence quality reports
         description_md: >
@@ -86,11 +86,10 @@ tabs:
               - fastq
               - fasta
         button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fmeryl%2Fmeryl"
-  - id: workflows
-    title: Workflows
+  - id: PacBio
+    title: PacBio
     heading_md: >
-      A workflow is a series of Galaxy tools that have been linked together to perform a specific analysis. You can use and customize the example workflows below.
-      <a href="https://galaxyproject.org/learn/advanced-workflow/" target="_blank">Learn more.</a>
+      Perform QC of PacBio sequencing reads with these tools and workflows.
     content:
       - title_md: Data QC
         description_md: >
