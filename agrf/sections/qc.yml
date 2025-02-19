@@ -8,28 +8,9 @@ tabs:
       See the tabs (above) to work with different data types.
     content:
       - title_md: What is quality control?
-        description_md: Learn about quality and data cleaning with this tutorial, which will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
-      - title_md: What is quality control?
-        description_md: >
-          <p>
-            Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.
-          </p>
-        button_md: Tutorial
-        button_link: https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html
-      - title_md: "Tutorial: introduction to Genomics and Galaxy"
-        description_md: >
-          <p>
-            This practical aims to familiarize you with the Galaxy user interface. It will teach you how to perform basic tasks such as importing data, running tools, working with histories, creating workflows, and sharing your work.
-          </p>
-        button_md: Tutorial
-        button_link: https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-strands/tutorial.html
-      - title_md: Galaxy Australia support
-        description_md: >
-          <p>
-            Any user of Galaxy Australia can request support through an online form.
-          </p>
-        button_md: Request support
-        button_link: /request/support
+        description_md: [describe, and add link, eg to tutorial]
+      - title_md: What tools and workflows can I use for quality control?
+        description_md: [describe]
   - id: Illumina
     title: Illumina
     heading_md: >
