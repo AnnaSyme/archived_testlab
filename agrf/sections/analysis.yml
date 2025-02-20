@@ -5,7 +5,7 @@ tabs:
   - id: help
     title: Overview
     heading_md: Analyse my AGRF data.
-      See the tabs for different data types.
+      See the tabs &uarr;s for different data types.
     content:
       - title_md: "Tutorial: Quality Control"
         description_md: Quality control and data cleaning is an essential first step in any NGS analysis. This tutorial will show you how to use and interpret results from <code>FastQC</code>, <code>NanoPlot</code> and <code>PycoQC</code>.

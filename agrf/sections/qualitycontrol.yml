@@ -1,11 +1,10 @@
 id: data
-title: Data quality control
+title: Quality control
 tabs:
   - id: help
     title: Overview
-    heading_md: Examine sequencing data and perform quality control
-      <br>
-      See the tabs (above) to work with different data types.
+    heading_md: >
+      See tabs for different datatypes &uarr;
     content:
       - title_md: What is quality control?
         description_md: describe, and add link, eg to tutorial
