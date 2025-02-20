@@ -1,1 +1,25 @@
+id: import
+title: Import data from AGRF
+tabs:
+  - id: help
+    title: Overview
+    heading_md: Get data into Galaxy and prepare it for analysis.
+    content:
+      - title_md: Upload your data to Galaxy
+        description_md: Find your data at the AGRF Hub(https://www.agrf.org.au/my-agrf-hub). Download this data to your computer and then upload to Galaxy, using the <code>Upload data</code> tool.
+        button_md: Upload data
+        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=upload1"
+      - title_md: Compress large data files
+        description_md: Save time and space by compressing data such as large <code>fastq</code> files.  
+        button_md: Compress data
+        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=https://toolshed.g2.bx.psu.edu/repos/iuc/compress_file" #does this need additional text eg %2Frepos% etc?
+      - title_md: Help, I don't know how to use Galaxy!
+        description_md: Learn how to use Galaxy with these user-friendly tutorials 
+        button_md: Galaxy tutorials
+        button_link: "https://training.galaxyproject.org/"      
+      - title_md: Galaxy Australia support
+        description_md: Request Galaxy Australia support, new tools, or additional storage quota through an online form. 
+        button_md: Request support
+        button_link: /request/support
+
 
