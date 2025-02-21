@@ -7,12 +7,19 @@ tabs:
     content:
       - title_md: What sort of analyses can I do with my data?
         description_md: >
-          * After quality control of the raw data, there are many tools installed in Galaxy for further data analysis.
+          * Analysis options depend on your research aims and the type of sequencing data (e.g. DNA or RNA, short-read or long-read). 
 
-          * See the tabs above for common analyses, which include suggested tools and workflows.       
-
-          * Analysis type will depend on the sequencing datatype (e.g. DNA or RNA, short-read or long-read) and your research aims. 
+          * Galaxy has a range of tools installed for different types of analyses. 
           
+          * Select your research area in the tabs above to see relevant tools and workflows.
+          
+
+
+      - title_md: Request new tools in Galaxy Australia
+        description_md: >
+          Contact us to request installation of new tools or reference datasets.
+        button_md: Tool request
+        button_link: https://site.usegalaxy.org.au/request/tool  
             
 
       
@@ -20,6 +27,8 @@ tabs:
     title: Genome assembly
     heading_md: >
     content:
+      - title_md: Tutorial 
+        description_md: Tutorial
       - title_md: Tool1 
         description_md: This tool does xyz
       - title_md: WF1 
@@ -30,14 +39,19 @@ tabs:
     title: SNP calling
     heading_md: >
     content:
+      - title_md: Tutorial 
+        description_md: Tutorial     
       - title_md: Tool1 
         description_md: This tool does xyz
       - title_md: WF1 
         description_md: This wf does xyz
+  
   - id: RNAseq  
     title: RNA-seq
     heading_md: >
     content:
+      - title_md: Tutorial 
+        description_md: Tutorial
       - title_md: Tool1 
         description_md: This tool does xyz
       - title_md: WF1 
