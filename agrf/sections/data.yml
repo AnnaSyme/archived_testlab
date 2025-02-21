@@ -1,7 +1,7 @@
 id: import
 title: Import data
 tabs:
-  - id: help
+  - id: overview
     title: Overview
     heading_md: 
     content:
@@ -24,6 +24,11 @@ tabs:
           * Get started with these user-friendly tutorials. 
         button_md: Galaxy tutorials
         button_link: "https://training.galaxyproject.org/"      
+  - id: help
+    title: Help
+    heading_md: 
+    content:
+
       - title_md: Galaxy Australia support
         description_md: Request support, new tools, or additional storage. 
         button_md: Request support

@@ -4,11 +4,17 @@ tabs:
   - id: help
     title: Overview
     heading_md: >
-      See tabs for different analysis options &uarr;
     content:
       - title_md: What sort of analyses can I do with my data?
         description_md: >
-          Link to information        
+          * After quality control of the raw data, there are many tools installed in Galaxy for further data analysis.
+
+          * See the tabs above for common analyses, which include suggested tools and workflows.       
+
+          * Analysis type will depend on the sequencing datatype (e.g. DNA or RNA, short-read or long-read) and your research aims. 
+          
+            
+
       
   - id: genome
     title: Genome assembly

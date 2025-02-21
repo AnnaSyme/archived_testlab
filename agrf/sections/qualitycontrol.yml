@@ -4,7 +4,6 @@ tabs:
   - id: help
     title: Overview
     heading_md: >
-      See tabs for different datatypes &uarr;
     content:
       - title_md: What is quality control?
         description_md: |
@@ -16,7 +15,8 @@ tabs:
           Galaxy has a range of tools to perform quality control. Select your datatype in the tabs above to see relevant tools and workflows.
       - title_md: Converting data to different formats
         description_md: |
-          Some tools require data in different formats. Learn about converting between bam to fastq format, fastq to fastqsanger format, and compressing/uncompressing files.
+          Some tools require data in different formats. 
+          Learn about converting between <code>bam</code>, <code>fastq</code> and <code>fastqsanger</code> formats, and compressing/uncompressing files.
         button_md: Tutorial
         button_link: add link
 
@@ -63,19 +63,6 @@ tabs:
           </p>
         button_link: link
         button_tip: Run workflow
-
-      - title_md: <code>NanoPlot</code> - visualize long read data
-        description_md: >
-          <p>
-            A plotting suite for long read sequencing data and alignments.
-          </p>
-        inputs:
-          - datatypes:
-              - fastq
-              - fastq.gz
-        button_link: "{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fnanoplot%2Fnanoplot"
-        button_tip: Run tool
-
 
       - title_md: <code>Remove Hifi adapters</code> - workflow
         description_md: >
