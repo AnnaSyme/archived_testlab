@@ -3,8 +3,22 @@ Thanks for checking out the Galaxy {{ site_name }} {{ lab_name }}!
 
 <p>
   AGRF is the <a href="https://www.agrf.org.au/">Australian Genome Research Facility.</a>
-  <a href="https://www.agrf.org.au/contact-us-enquiry" class="btn btn-primary right-button">Order more sequencing from AGRF</a>
+  <br>
+  <a href="https://www.agrf.org.au/contact-us-enquiry" class="btn btn-primary" style="margin-top: 10px; display: inline-block;">
+  Order more sequencing from AGRF </a>
+
 </p>
+
+
+ [Contact Galaxy Australia](https://site.usegalaxy.org.au/request).
+
+ [Connect with the Australian genomics community](https://www.biocommons.org.au/genomics-domain).
+
+
+
+
+
+<!-- previous button styling
 
 <style>
   .right-button {
@@ -12,11 +26,6 @@ Thanks for checking out the Galaxy {{ site_name }} {{ lab_name }}!
     margin-right: 200px; /* Adds spacing from the right edge */
 }
 </style>
-
-
- [Contact Galaxy Australia](https://site.usegalaxy.org.au/request).
-
- [Connect with the Australian genomics community](https://www.biocommons.org.au/genomics-domain).
 
 
 <style>
@@ -48,3 +57,5 @@ Thanks for checking out the Galaxy {{ site_name }} {{ lab_name }}!
 
 
 </style>
+
+-->

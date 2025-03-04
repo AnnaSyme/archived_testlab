@@ -1,12 +1,17 @@
 Welcome to the Galaxy {{ site_name }} {{ lab_name }}! 
 
-<!-- note that these below are just examples and don't yet link to sections. May to to check how section headings are rendered so can link properly -->
+<!-- note 
+to link to a section, see what it is called in the yml file (it's id, on the first line)
+then add Section, so data becomes dataSection
+note that many of the sections here are not yet actual sections as yml files, just here for examples
+-->
 
+<h4 class="mb-3">What's in the lab?</h4>
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-        Contents (click to expand):
+        Scroll down, or click here to see all topics:
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -14,6 +19,9 @@ Welcome to the Galaxy {{ site_name }} {{ lab_name }}!
         <div class="row">
           <div class="col-md-3">
             <a href="#importSection" style="color: blue; text-decoration: underline;">Import Data</a>
+          </div>
+          <div class="col-md-3">
+            <a href="#dataSection" style="color: blue; text-decoration: underline;">Quality control</a>
           </div>
           <div class="col-md-3">
             <a href="#wholeExome" style="color: blue; text-decoration: underline;">Whole Exome</a>
