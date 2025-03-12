@@ -14,15 +14,18 @@ Thanks for checking out the Galaxy {{ site_name }} {{ lab_name }}!
 
  [Connect with the Australian genomics community](https://www.biocommons.org.au/genomics-domain).
 
-
-
-<!-- logos -->
-
-![Australian Biocommons logo](/static/ABC_logo.png)
-
-
-
-
+<!-- Tiled Section with Three Square Logos (with text fallback) -->
+<div class="row" style="margin-top: 30px; justify-content: flex-start;">
+  <div class="col-md-3" style="border: 2px dotted #000; padding: 20px; text-align: center; margin-right: 10px; border-radius: 15px; height: 120px; display: flex; justify-content: center; align-items: center;">
+    <img src="/agrf-logo.png" alt="Logo 1" style="max-width: 80%; max-height: 80%; object-fit: contain;" onerror="this.style.display='none'; this.parentElement.innerHTML='Logo 1';">
+  </div>
+  <div class="col-md-3" style="border: 2px dotted #000; padding: 20px; text-align: center; margin-right: 10px; border-radius: 15px; height: 120px; display: flex; justify-content: center; align-items: center;">
+    <img src="/another-logo.png" alt="Logo 2" style="max-width: 80%; max-height: 80%; object-fit: contain;" onerror="this.style.display='none'; this.parentElement.innerHTML='Logo 2';">
+  </div>
+  <div class="col-md-3" style="border: 2px dotted #000; padding: 20px; text-align: center; border-radius: 15px; height: 120px; display: flex; justify-content: center; align-items: center;">
+    <img src="/third-logo.png" alt="Logo 3" style="max-width: 80%; max-height: 80%; object-fit: contain;" onerror="this.style.display='none'; this.parentElement.innerHTML='Logo 3';">
+  </div>
+</div>
 <!-- previous button styling
 
 <style>
