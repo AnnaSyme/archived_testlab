@@ -18,7 +18,6 @@ Thanks for checking out the Galaxy {{ site_name }} {{ lab_name }}!
 
 <!-- logos -->
 
-![AGRF logo](/static/AGRF_logo.png)
 ![Australian Biocommons logo](/static/ABC_logo.png)
 
 
